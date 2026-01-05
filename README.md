@@ -23,7 +23,7 @@ Segala penyalahgunaan di luar tujuan edukasi **bukan tanggung jawab author**.
 ---
 
 ## 📸 Screenshots
-![preview](https://raw.githubusercontent.com/Tenkxzz/telegram-minimal-bot/main/images/preview.jpg)
+![alt text](https://github.com/Tenkxzz/spam-tele/blob/main/images/main_menu.jpg?raw=true)
 
 ---
 
